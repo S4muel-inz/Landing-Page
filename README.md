@@ -17,7 +17,7 @@ Este repositório contém uma 'landing page' responsiva para o lançamento dos a
 
 📂 Como Usar
 -Clone este repositório: https://github.com/S4muel-inz/Landing-Page
--Abra no link:
+ Ou Abra no link da pagina github: 
 
 
 📢 Contribuição
